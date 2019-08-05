@@ -109,7 +109,7 @@ The following papers/articles/slides can help you to understand the general desi
 * - [ ] [The Google File System](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/gfs-sosp2003.pdf)
 * - [ ] [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf)
 * - [ ] [Dynamo: Amazon's Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
-* - [ ] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
+- [x] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 * - [ ] [Cassandra Introduction Features](http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666)
 * - [ ] [Introduction to HBase](http://www.slideshare.net/alexbaranau/intro-to-hbase)
 * - [ ] [Introduction to MongoDB](http://www.slideshare.net/mdirolf/introduction-to-mongodb)
@@ -228,7 +228,7 @@ Reference:
  
 **Design a cache system**    
 Reference:   
-* - [ ] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
+- [x] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
