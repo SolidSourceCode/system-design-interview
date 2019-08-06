@@ -110,7 +110,7 @@ The following papers/articles/slides can help you to understand the general desi
 * - [ ] [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf)
 * - [ ] [Dynamo: Amazon's Highly Available Key-value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
 - [x] [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
-* - [ ] [Cassandra Introduction Features](http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666)
+- [x] [Cassandra Introduction Features](http://www.slideshare.net/planetcassandra/cassandra-introduction-features-30103666)
 * - [ ] [Introduction to HBase](http://www.slideshare.net/alexbaranau/intro-to-hbase)
 * - [ ] [Introduction to MongoDB](http://www.slideshare.net/mdirolf/introduction-to-mongodb)
 * - [ ] [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
